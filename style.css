@@ -1,0 +1,104 @@
+html{
+  width: 1280px;
+  height: 2000px;
+  margin: auto;
+}
+.clear{
+  clear: both;
+}
+.logo{
+  margin-left: 49px;
+  margin-top: 28px;
+}
+nav ul li{
+  float: left;
+  list-style: none;
+  font-size: 30px;
+  padding-left: 38px;
+  padding-right: 38px;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  background-color: #231F20;
+  color: #FFFFFF;
+  font-family: 微軟正黑體;
+  margin-left: 50px;
+}
+nav ul{
+  margin-left: -41px;
+}
+.btn2{
+  margin-top: 36px;
+}
+.film{
+  margin-top: -5px;
+  position: relative;
+}
+
+.box1 {
+  position: absolute;
+  top: 140px;
+  left: 130px;
+  width: 1023px;
+  height: 724px;
+}
+.btn1{
+  margin-top: 54px;
+}
+.film_2{
+  margin-top: -7px;
+  position: relative;
+}
+.box2{
+position: absolute;
+top: 56px;
+}
+.b5{
+  position: absolute;
+  right: -16px;
+}
+.b4{
+  position: absolute;
+  right: 33.5px;
+}
+.b3{
+  position: absolute;
+  right: 425px;
+}
+.b2{
+  position: absolute;
+  left: 52px;
+}
+.b1{
+  position: absolute;
+  top: 56.5px;
+  left: 0.5px;
+}
+.arrow{
+  position: absolute;
+  bottom: 114px;
+  left: 13px;
+}
+.next{
+  position: absolute;
+  bottom: 114px;
+  left: 1205px;
+}
+footer{
+  height: 153px;
+  background-color: #231F20;
+  color:  #FFFFFF;
+  font-size: 24px;
+  font-family: 微軟正黑體;
+  position: relative;
+  margin-top: 58px;
+}
+footer p{
+  position: absolute;
+  left: 505px;
+  bottom: 40px;
+}
+.icon{
+  float: right;
+  margin-right: 27px;
+  margin-top: 40px;
+}
